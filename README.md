@@ -1,5 +1,7 @@
 # xp-remotion
-experiencing the remotion library suite to create videos programmatically in React, you can see the final result of video [here](https://github.com/cjfswd/test-remotion/blob/deploy/video.mp4?raw=true). 
+experiencing the remotion suite of libraries to create videos programmatically in React.  
+
+you can see the final product of code as video [here](https://github.com/cjfswd/test-remotion/blob/deploy/video.mp4?raw=true). 
 
 ## Remotion video
 
